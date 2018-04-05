@@ -8,9 +8,9 @@ For this assignment, you'll create some initial plans for your project.
 
 ### Wireframes
 
-- [New Account](wf-signup.png)
-- [Login](wf-login.png)
-- [Timeline](wf-timeline.png)
+- [New Account](wf-signup1.png)
+- [Login](wf-login1.png)
+- [Timeline](wf-timeline1.png)
 
 ### Project Tracker
 
